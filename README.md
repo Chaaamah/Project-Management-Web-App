@@ -70,16 +70,6 @@ npm run dev
 
 ---
 
-## 📂 Structure principale du projet
-
-- `app/` – Contrôleurs, modèles Laravel
-- `resources/js/` – Composants React
-- `routes/web.php` – Routes principales
-- `database/` – Migrations et seeders
-- `public/` – Assets publics
-
----
-
 ## ✅ Fonctionnalités principales
 
 - Gestion des projets (Créer, Modifier, Supprimer)
@@ -98,9 +88,3 @@ npm run dev
 | `npm run build` | Compiler les assets pour production |
 | `php artisan migrate` | Lancer les migrations |
 | `php artisan db:seed` | Lancer les seeders |
-
----
-
-## 📜 Licence
-
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
